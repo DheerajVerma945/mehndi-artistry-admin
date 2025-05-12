@@ -1,0 +1,23 @@
+
+{
+    "name": "Mehndi Artistry",
+    "short_name": "MA",
+    "description": "Mehndi Design",
+    "icons": [
+      {
+        "src": "/Icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/Icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "theme_color":"#ffffff",
+    "display": "standalone",
+    "orientation": "portrait-primary"
+  }
